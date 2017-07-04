@@ -1,4 +1,4 @@
 ---
 - hosts: all
   roles:
-  - role: blackbaud.linux-hardening
+  - role: dev-sec.ssh-hardening
