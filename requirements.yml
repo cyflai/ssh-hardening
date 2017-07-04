@@ -1,2 +1,2 @@
 ---
-- src: ansible-ssh-hardening
+- src: techraf.ansible-ssh-hardening
