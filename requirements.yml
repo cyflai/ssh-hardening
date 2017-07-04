@@ -1,2 +1,2 @@
 ---
-- src: techraf.ansible-ssh-hardening
+- src: blackbaud.linux-hardening
