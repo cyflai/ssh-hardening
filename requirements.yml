@@ -1,0 +1,4 @@
+---
+- src: https://github.com/dev-sec/ansible-ssh-hardening
+  version: master
+  name:ssh_hardening
