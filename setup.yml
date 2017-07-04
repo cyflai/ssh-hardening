@@ -3,4 +3,4 @@
 - hosts: all
 
   roles:
-  - role: ssh_hardening
+  - role: ansible-ssh-hardening
